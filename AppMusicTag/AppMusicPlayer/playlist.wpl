@@ -1,0 +1,17 @@
+<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.10240.16724"/>
+        <meta name="ItemCount" content="0"/>
+        <author/>
+        <title>playlist</title>
+    </head>
+    <body>
+        <seq>
+            <media src="..\..\Desktop\Acerto - mizeravi.mp3" tid="{8F3FFE3D-3831-46AA-8AF1-41EDDE60840B}"/>
+            <media src="..\..\Desktop\Casa do Jubileu (Remix Konversão).mp3"/>
+            <media src="..\..\Desktop\Adam Lambert - Ghost Town.mp3"/>
+            <media src="..\..\Desktop\Sia - Cheap Thrills (ft. Sean Paul).mp3"/>
+        </seq>
+    </body>
+</smil>
